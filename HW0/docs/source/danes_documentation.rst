@@ -1,6 +1,6 @@
 
 Dane's Module
-=====================================
+=============
  
 These are the functions that Dane created:
 
