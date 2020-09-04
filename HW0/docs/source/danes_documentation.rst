@@ -2,6 +2,8 @@
 Dane's Module
 =============
  
+This is new text.
+
 These are the functions that Dane created:
 
 .. automodule:: danes_module
