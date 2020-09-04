@@ -1,5 +1,7 @@
 import numpy as np
 
+""" small changes """
+
 def square_a_number(x):
 	"""
     Dane's first function.
