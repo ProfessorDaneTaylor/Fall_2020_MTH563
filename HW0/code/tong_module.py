@@ -1,28 +1,19 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-#add a new line
-
 import numpy as np
+import math 
 
 
-# In[4]:
-
-
-def double_a_number(x):
+def sine_calculator(x):
     """
     The first function.
     
     Args:
         x (float): Some number.
     Returns:
-        float: Returns :math:`y=x*2`
+        float: Returns :math:`y=sin(x)`
     
     """
-    return x*2
+    return math.sin(x)
+
 
 def ten_times_greater(x):
     """
@@ -36,8 +27,6 @@ def ten_times_greater(x):
     """
     return x*10
 
-
-# In[ ]:
 
 
 
