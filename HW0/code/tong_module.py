@@ -1,18 +1,17 @@
 import numpy as np
-import math 
 
 
-def sine_calculator(x):
+def cube_numbers(x):
     """
     The first function.
     
     Args:
         x (float): Some number.
     Returns:
-        float: Returns :math:`y=sin(x)`
+        float: Returns :math:`y=x^3`
     
     """
-    return math.sin(x)
+    return x**3
 
 
 def ten_times_greater(x):
