@@ -14,6 +14,7 @@ Our Collaborative Codebase for Homework 0
    HW0_assignment
    danes_documentation
 
+   tongs_documentation
 
 Indices and tables
 ==================
