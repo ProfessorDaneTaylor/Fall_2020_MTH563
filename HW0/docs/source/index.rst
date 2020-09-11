@@ -8,6 +8,7 @@ Our Collaborative Codebase for Homework 0
 
 
 .. toctree::
+
    :maxdepth: 4
    :caption: Contents
 
@@ -15,6 +16,7 @@ Our Collaborative Codebase for Homework 0
    danes_documentation
    tongs_documentation
    ye_documentation
+   floyds_documentation
 
 Indices and tables
 ==================
