@@ -9,7 +9,7 @@ Our Collaborative Codebase for Homework 0
 
 .. toctree::
 
-   :maxdepth: 4
+   :maxdepth: 5
    :caption: Contents
 
    HW0_assignment
@@ -17,6 +17,7 @@ Our Collaborative Codebase for Homework 0
    tongs_documentation
    ye_documentation
    floyds_documentation
+   Bao_documentation   
 
 Indices and tables
 ==================
