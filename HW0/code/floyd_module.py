@@ -1,23 +1,27 @@
 import numpy as np
 
-def square_a_number(x):
+""" small changes """
+
+def times_by_10(x):
 	"""
-    Dane's first function.
+    Floyd's first function.
     Args:
         x (float): Some number.
     Returns:
-        float: Returns :math:`y=x^2`
+        float: Returns :math:`y=10x`
     """
 
-	return x**2
+	return 10*x
 
-def times_by_3(x):
+def plus_two(x):
 	"""
-    Dane's second function.
+    Floyd's second function.
     Args:
         x (float): Some number.
     Returns:
-        float: Returns :math:`y=3x`
+        float: Returns :math:`y=x+2`
     """
 
-	return 3*x
+	return x+2
+
+
