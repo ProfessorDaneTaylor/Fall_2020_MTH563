@@ -5,6 +5,15 @@ import numpy as np
 
 # computing n!
 def factorial(n):
+    """
+    Bao's first function.
+
+    Args:
+        n (int): Some postive integer.
+
+    Returns:
+        int: Returns :math:`n!`
+    """
     if type(n)==int:
         if n==0:
             return 1
@@ -18,6 +27,15 @@ def factorial(n):
 
 # check if an integer is prime
 def isPrime(n):
+    """
+    Bao's second function.
+
+    Args:
+        n (int): Some integer.
+
+    Returns:
+        string: Returns "prime" if n is prime, "not prime" if n is not prime
+    """
     if type(n)==int:
         s=0
         for i in np.arange(2,n):   
