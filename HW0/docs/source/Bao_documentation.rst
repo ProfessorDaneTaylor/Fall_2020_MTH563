@@ -2,7 +2,7 @@
 Bao's Module
 =====================================
 
-These are the functions that Floyd created:
+These are the functions that Bao created:
 
 .. automodule:: Bao_module
    :members:
