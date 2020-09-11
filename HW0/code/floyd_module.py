@@ -15,7 +15,7 @@ def times_by_10(x):
 
 def plus_two(x):
 	"""
-    Floyd's first function.
+    Floyd's second function.
     Args:
         x (float): Some number.
     Returns:
