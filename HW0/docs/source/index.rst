@@ -13,10 +13,10 @@ Our Collaborative Codebase for Homework 0
 
    HW0_assignment
    danes_documentation
-   Bao_documentation
    tongs_documentation
    ye_documentation
    floyds_documentation
+   Bao_documentation   
 
 
 Indices and tables
