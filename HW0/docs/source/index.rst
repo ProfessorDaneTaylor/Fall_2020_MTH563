@@ -8,13 +8,16 @@ Our Collaborative Codebase for Homework 0
 
 
 .. toctree::
-   :maxdepth: 3
+
+   :maxdepth: 5
    :caption: Contents
 
    HW0_assignment
    danes_documentation
-   floyds_documentation
    tongs_documentation
+   ye_documentation
+   floyds_documentation
+   Bao_documentation   
 
 Indices and tables
 ==================
