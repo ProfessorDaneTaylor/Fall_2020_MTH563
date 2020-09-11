@@ -8,7 +8,7 @@ Our Collaborative Codebase for Homework 0
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents
 
    HW0_assignment
