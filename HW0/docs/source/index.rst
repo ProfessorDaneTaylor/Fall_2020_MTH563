@@ -15,6 +15,7 @@ Our Collaborative Codebase for Homework 0
    danes_documentation
    
    floyds_documentation
+   
 Indices and tables
 ==================
 
