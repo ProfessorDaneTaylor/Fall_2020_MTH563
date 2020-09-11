@@ -3,7 +3,7 @@ Ye's Module
 =============
  
 
-These are the functions that Dane created:
+These are the functions that Ye created:
 
 .. automodule:: ye_module
    :members:
