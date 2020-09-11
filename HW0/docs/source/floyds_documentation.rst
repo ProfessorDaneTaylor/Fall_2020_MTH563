@@ -1,10 +1,10 @@
 
-Dane's Module
+Floyd's Module
 =====================================
  
-These are the functions that Dane created:
+These are the functions that Floyd created:
 
-.. automodule:: danes_module
+.. automodule:: floyd_module
    :members:
 
 
@@ -13,11 +13,11 @@ Below is an example for how to use these functions.
 
 .. code-block:: python
 
-    from danes_module import *
+    from floyd_module import *
 
-    square_a_number(3)
+    times_by_10(10)
 
-    times_by_3(2)
+    plus_two(10)
 
 
 
